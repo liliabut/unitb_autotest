@@ -47,6 +47,5 @@ public class MainActivity {
 			DumpThread dt = new DumpThread();
 			dt.start();
 		}
-
 	}
 }
